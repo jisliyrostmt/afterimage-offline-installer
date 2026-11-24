@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+From the darkness is a psychological horror game with a scary atmosphere, the game takes place in an old Soviet abandoned apartment.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,10 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **Processor** | Intel CORE i5 | Intel Core i5 / Apple M1 |
+| **Graphics** | gtx 750 Ti | Metal-capable GPU |
+| **Storage** | 1250 MB available space | 1250 MB available space |
+| **OS *** | windows 7, 8, 10 | windows 7, 8, 10 |
 
 ---
 
